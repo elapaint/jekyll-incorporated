@@ -4,6 +4,7 @@ inc:
   subtitle:     "Modern Jekyll based blog for companies"
   cover_image:  blog-cover.jpg
   logo:         logo.png
+  url: http://elapaint.github.io/jekyll-incorporated
   
   # Company information
   company:      Incorporated
